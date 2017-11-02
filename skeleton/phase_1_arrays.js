@@ -48,3 +48,6 @@ Array.prototype.transpose = function () {
   }
   return result;
 };
+
+// let array = Array(3).fill().map(() => Array(5).fill(0));
+//
